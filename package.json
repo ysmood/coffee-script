@@ -1,5 +1,5 @@
 {
-  "name": "ys-coffee-script",
+  "name": "ys-coffee",
   "description": "Unfancy JavaScript",
   "keywords": [
     "javascript",
@@ -7,7 +7,7 @@
     "coffeescript",
     "compiler"
   ],
-  "author": "Jeremy Ashkenas",
+  "author": "http://ysmood.org",
   "version": "1.7.2",
   "license": "MIT",
   "engines": {
@@ -29,7 +29,7 @@
   "bugs": "https://github.com/jashkenas/coffeescript/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jashkenas/coffeescript.git"
+    "url": "git@github.com:ysmood/coffee-script.git"
   },
   "devDependencies": {
     "uglify-js": "~2.2",
